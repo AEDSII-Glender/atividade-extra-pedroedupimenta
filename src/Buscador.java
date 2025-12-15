@@ -1,5 +1,3 @@
-package sim;
-
 public class Buscador {
     private NoABB raiz;
     
